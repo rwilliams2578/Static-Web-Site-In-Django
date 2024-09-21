@@ -1,7 +1,7 @@
 # Assignment 1 - Static Web Site In Django
 
 ## Author
-
+Revelle Williams
 
 
 ## Description
